@@ -15,8 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="source\CPPbeyondTheBasics.cpp">
+    <ClCompile Include="Opdracht1\source\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Opdracht1\source\Bankrekening.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Opdracht1\source\Transactie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Opdracht1\source\Bankrekening.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Opdracht1\source\Transactie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -127,7 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="source\CPPbeyondTheBasics.cpp" />
+    <ClCompile Include="Opdracht1\source\Bankrekening.cpp" />
+    <ClCompile Include="Opdracht1\source\Main.cpp" />
+    <ClCompile Include="Opdracht1\source\Transactie.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Opdracht1\source\Bankrekening.h" />
+    <ClInclude Include="Opdracht1\source\Transactie.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
